@@ -7,4 +7,43 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="cafe_name">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:background">@drawable/wood</item>
+
+    </style>
+
+    <style name="value_meals_name">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FDFEFE</item>
+        <item name="android:textSize">60sp</item>
+
+    </style>
+
+    <style name="sweet_name">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FDFEFE</item>
+        <item name="android:textSize">60sp</item>
+
+    </style>
+
+    <style name="cake_name">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FDFEFE</item>
+        <item name="android:textSize">60sp</item>
+
+    </style>
+
+    <style name="bevarage_name">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FDFEFE</item>
+        <item name="android:textSize">60sp</item>
+
+    </style>
+
 </resources>
